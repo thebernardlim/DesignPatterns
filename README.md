@@ -1,4 +1,4 @@
-# DesignPatterns
+# Design Patterns
 Collection of projects illustrating the various design patterns
 
 Projects listed is for future self-referencing and self-learning purposes.
