@@ -6,6 +6,7 @@ Projects listed is for future self-referencing and self-learning purposes.
 Current list of patterns available:
 - Singleton
 - Observer
+- Decorator
 
 Sources referred to during project are:
 - Scott Lily Youtube videos : https://www.youtube.com/user/ProgramsByScottLilly/videos
