@@ -1,0 +1,6 @@
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\Observer\obj\Debug\Observer.csprojResolveAssemblyReference.cache
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\Observer\bin\Debug\Observer.exe.config
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\Observer\bin\Debug\Observer.exe
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\Observer\bin\Debug\Observer.pdb
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\Observer\obj\Debug\Observer.exe
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\Observer\obj\Debug\Observer.pdb
