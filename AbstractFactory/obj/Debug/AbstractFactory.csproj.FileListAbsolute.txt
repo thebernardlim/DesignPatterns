@@ -1,0 +1,5 @@
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

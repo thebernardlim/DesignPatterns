@@ -7,12 +7,14 @@ Current list of patterns available:
 - Singleton
 - Observer
 - Decorator
+- Factory
+- Abstract Factory
 
 Sources referred to during project are:
 - Scott Lily Youtube videos : https://www.youtube.com/user/ProgramsByScottLilly/videos
 - Derek Banas Youtube videos : https://www.youtube.com/user/derekbanas/videos
 - Head First Design Patterns book : http://shop.oreilly.com/product/9780596007126.do
-- Essential C# 6.0 book : https://www.amazon.com/Essential-6-0-Addison-Wesley-Microsoft-Technology/dp/0134141040
+- Design Patterns: Elements of Reusable Object-Oriented Software book : https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612
 
 
 
