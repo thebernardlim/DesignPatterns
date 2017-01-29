@@ -6,7 +6,7 @@ The Command Pattern encapsulates a request as an object, thereby letting you par
 ### Description
 Sometimes it is necessary to issue requests to objects without knowing anything about the operation being requested or the receiver of the request. 
 
-![Command Pattern Diagram]()
+![Command Pattern Diagram](https://github.com/thebernardlim/DesignPatterns/blob/master/Command/command.jpg)
 
 **Image Source :** Design Patterns: Elements of Reusable Object-Oriented Software book   
 **Amazon Link :** https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612
