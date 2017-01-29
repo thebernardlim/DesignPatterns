@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DDBD280E-B9E9-47BB-8269-9DFD679BBCB9}</ProjectGuid>
+    <ProjectGuid>{92D3B400-D0F6-48B5-AB33-782B78FD75D7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AbstractFactory</RootNamespace>
-    <AssemblyName>AbstractFactory</AssemblyName>
+    <RootNamespace>Command</RootNamespace>
+    <AssemblyName>Command</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,29 +41,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Client.cs" />
-    <Compile Include="GameFactoryEnglish.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="PlayerEnglish.cs" />
-    <Compile Include="GameFactoryAbstract.cs" />
-    <Compile Include="ManagerEnglish.cs" />
-    <Compile Include="GameFactoryJap.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="ManagerJap.cs" />
-    <Compile Include="PlayerJap.cs" />
-    <Compile Include="ManagerAbstract.cs" />
-    <Compile Include="PlayerAbstract.cs" />
+    <Compile Include="After\Menu.cs" />
+    <Compile Include="After\Command_Order.cs" />
+    <Compile Include="After\Kitchen_Barista.cs" />
+    <Compile Include="After\Command.cs" />
+    <Compile Include="After\Command_CancelOrder.cs" />
+    <Compile Include="After\Kitchen.cs" />
+    <Compile Include="After\Kitchen_Cook.cs" />
+    <Compile Include="After\Waiter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="README.md" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="abstractfactoryimage.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

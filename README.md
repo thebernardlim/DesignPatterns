@@ -9,6 +9,7 @@ Current list of patterns available:
 - Decorator
 - Factory
 - Abstract Factory
+- Command
 
 Sources referred to during project are:
 - Scott Lily Youtube videos : https://www.youtube.com/user/ProgramsByScottLilly/videos
