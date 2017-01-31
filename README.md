@@ -4,7 +4,7 @@ Collection of projects illustrating the various design patterns
 Projects listed is for future self-referencing and self-learning purposes.
 
 Current list of patterns available:
-- [Singleton](https://github.com/thebernardlim/DesignPatterns/tree/master/Singleton)
+- <a href="https://github.com/thebernardlim/DesignPatterns/tree/master/Singleton" target="_blank">Singleton</a>
 - Singleton
 - Observer
 - Decorator
