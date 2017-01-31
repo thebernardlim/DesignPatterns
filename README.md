@@ -4,13 +4,12 @@ Collection of projects illustrating the various design patterns
 Projects listed is for future self-referencing and self-learning purposes.
 
 Current list of patterns available:
-- <a href="https://github.com/thebernardlim/DesignPatterns/tree/master/Singleton" target="_blank">Singleton</a>
-- Singleton
-- Observer
-- Decorator
-- Factory
-- Abstract Factory
-- Command
+- [Singleton](https://github.com/thebernardlim/DesignPatterns/tree/master/Singleton)
+- [Observer](https://github.com/thebernardlim/DesignPatterns/tree/master/Observer)
+- [Decorator](https://github.com/thebernardlim/DesignPatterns/tree/master/Decorator)
+- [Factory](https://github.com/thebernardlim/DesignPatterns/tree/master/Factory)
+- [Abstract Factory](https://github.com/thebernardlim/DesignPatterns/tree/master/AbstractFactory)
+- [Command](https://github.com/thebernardlim/DesignPatterns/tree/master/Command)
 
 Sources referred to during project are:
 - Scott Lily Youtube videos : https://www.youtube.com/user/ProgramsByScottLilly/videos
