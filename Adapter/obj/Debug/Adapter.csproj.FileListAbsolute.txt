@@ -1,0 +1,6 @@
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\Adapter\obj\Debug\Adapter.exe
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\Adapter\obj\Debug\Adapter.pdb
