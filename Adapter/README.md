@@ -14,6 +14,7 @@ Explanation of the example given:
 - First it calls 'Player' class which implements 'Character' interface.   
 - 'Manager' is a totally separate class with different methods that 'Program' class does not know of.   
 - In order to call 'Manager', 'Program' calls 'ManagerAdapter' which implements 'Character'.   
+- 'ManagerAdapter' class exercises composition, as it is composed of the 'Manager' class.
 - 'ManagerAdapter' will take role of an adapter and translate requests from 'Program' to 'Manager' class.   
 
 
