@@ -11,6 +11,7 @@ Current list of patterns available:
 - [Abstract Factory](https://github.com/thebernardlim/DesignPatterns/tree/master/AbstractFactory)
 - [Command](https://github.com/thebernardlim/DesignPatterns/tree/master/Command)
 - [Adapter](https://github.com/thebernardlim/DesignPatterns/tree/master/Adapter)
+- [Facade](https://github.com/thebernardlim/DesignPatterns/tree/master/Facade)
 
 Sources referred to during project are:
 - Scott Lily Youtube videos : https://www.youtube.com/user/ProgramsByScottLilly/videos
