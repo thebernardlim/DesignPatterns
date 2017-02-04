@@ -22,5 +22,10 @@ namespace Template
         {
             Console.WriteLine("Defender attempts a shot");
         }
+
+        public override void Run()
+        {
+            Console.WriteLine("Defender runs..");
+        }
     }
 }

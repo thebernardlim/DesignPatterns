@@ -8,6 +8,7 @@ namespace Template
 {
     abstract class Player
     {
+        //Template method
         public void PlayRole()
         {
             Run();
@@ -16,11 +17,13 @@ namespace Template
             if (PlayerHasShootOption()) Shoot();
         }
 
-        public void Run()
+        //Hook method - Subclasses can either override or leave as original
+        public virtual void Run()
         {
             Console.WriteLine("Player running..");
         }
 
+        //Must-implement abstract methods
         public abstract void Defend();
         public abstract void Pass();
         public abstract void Shoot();
