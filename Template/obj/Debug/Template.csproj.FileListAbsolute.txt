@@ -1,0 +1,6 @@
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\Template\obj\Debug\Template.csprojResolveAssemblyReference.cache
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\Template\bin\Debug\Template.exe.config
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\Template\bin\Debug\Template.exe
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\Template\bin\Debug\Template.pdb
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\Template\obj\Debug\Template.exe
+C:\Users\bernard.lim\Desktop\BL\Projects\DesignPatterns\Template\obj\Debug\Template.pdb
